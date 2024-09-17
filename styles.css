@@ -1,0 +1,37 @@
+.backGroundOfGame{
+    background-color: rgb(89, 103, 187);
+    height: 650px;
+    width: 800px;
+    border: 1px solid black;
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+
+.numberSquare{
+    background-color: white;
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+    align-items: right 50px;
+}
+
+input{
+    height: 35px;
+    width: 50px;
+    align-items: center;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 10px ;
+}
+
+.guess{
+    margin-top: 150px;
+
+}
+
+
+
